@@ -1,20 +1,6 @@
 # Projeto_2-Teste-de-Hipoteses
-Caso:
+No cenário competitivo e dinâmico da indústria musical, a capacidade de tomar decisões embasadas em dados é crucial. Este projeto surge no contexto desafiador de uma gravadora que busca lançar um novo artista no cenário global. Utilizando um extenso conjunto de dados fornecido pelo Spotify, contendo informações sobre as músicas mais ouvidas em 2023, a gravadora formula diversas hipóteses para compreender os padrões de sucesso.
 
-Num mundo onde a indústria musical é extremamente competitiva e em constante evolução, a capacidade de tomar decisões baseadas em dados tornou-se um ativo inestimável.Neste contexto, uma gravadora enfrenta o emocionante desafio de lançar um novo artista no cenário musical global. Felizmente, ela tem uma ferramenta poderosa em seu arsenal: um extenso conjunto de dados do Spotify com informações sobre as músicas mais ouvidas em 2023.
-A gravadora levantou uma série de hipóteses sobre o que faz uma música seja mais ouvida. Essas hipóteses incluem:
+As hipóteses levantadas abrangem uma variedade de aspectos, desde características musicais até comportamento de consumo em diferentes plataformas. Entre elas, destacam-se a possível correlação entre o número de streams e o BPM das músicas, a similaridade de desempenho entre as principais faixas do Spotify e outras plataformas como Deezer, e a influência da inclusão em playlists na popularidade de uma música.
 
-- Músicas com BPM (Batidas Por Minuto) mais altos fazem mais sucesso em termos de número de streams no Spotify.
-
-- As músicas mais populares no ranking do Spotify também possuem um comportamento semelhante em outras plataformas, como a Deezer.
-
-- A presença de uma música em um maior número de playlists está correlacionada com um maior número de streams.
-
-- Artistas com um maior número de músicas no Spotify têm mais streams.
-
-- As características da música influenciam o sucesso em termos de número de streams no Spotify.
-
-A partir desse contexto, o objetivo do projeto é refutar ou confirmar as hipóteses acima a fim de fornecer recomendações estratégicas.
-
-
-Ferramentas utilizadas: BigQuery (SQL),Python,Estatística e PowerBi
+O projeto utiliza uma abordagem analítica para refutar ou confirmar essas hipóteses, empregando ferramentas como **BigQuery** para manipulação de dados via SQL, **Python** para análise estatística e **PowerBI** para visualização e interpretação dos resultados. O objetivo final é gerar insights estratégicos que possam orientar decisões eficazes no lançamento de novos artistas e no gerenciamento do catálogo musical da gravadora.
